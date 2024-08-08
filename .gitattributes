@@ -1,9 +1,2 @@
-*.csharp linguist-detectable=false
-
-*.java linguist-detectable=true
-
-*.js linguist-detectable=false
-
-*.html linguist-detectable=false
-
-*.xml linguist-detectable=false
+demo/* linguist-documentation=false
+demo/* linguist-vendored
