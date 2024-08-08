@@ -1,11 +1,1 @@
-*.csharp linguist-detectable=true
-
 *.java linguist-detectable=true
-
-*.js linguist-detectable=true
-
-*.html linguist-detectable=true
-
-*.xml linguist-detectable=true
-
-*.yml linguist-detectable=true
